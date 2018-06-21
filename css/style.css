@@ -3,6 +3,14 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+h3 {
+  color: #556D7D;
+  font-weight: bold;
+}
+
+ul {
+  border-left: solid 1px #556D7D;
+}
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
@@ -22,6 +30,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 40px;
+  color: #556D7D;
 }
 
 /* Custom page footer */
@@ -96,7 +105,7 @@ body {
   padding: 5px 10px;
   color: #fff;
   text-align: left;
-  background-color: #848482;
+  background-color: #556D7D;
 }
 
 .header-bar .address {
